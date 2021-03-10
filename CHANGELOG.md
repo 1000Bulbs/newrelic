@@ -2,6 +2,9 @@
 
 This file is used to list changes made in each version (>= 2.11.0) of the newrelic cookbook.
 
+## v2.42.0 - This is a quick fix and not part of the supermarket cookbook
+- fix default attributes on YML LWRP
+
 ## v2.41.0
 - add distributed tracing to php agent resource
 
